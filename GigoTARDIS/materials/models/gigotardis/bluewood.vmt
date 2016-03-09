@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/gigotardis/bluewood"
+	$bumpmap "models/gigotardis/bluewood_nrm"
+}

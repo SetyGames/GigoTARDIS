@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	$basetexture models/gigotardis/policesign
+	$selfillum 1
+	$selfillummaskscale 1000.0
+
+
+}

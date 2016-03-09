@@ -1,0 +1,13 @@
+{
+	"title"		:	"GigoTARDIS",
+	"type"		:	"model",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:
+	[
+		"*.md",
+		"*.txt",
+		"*.git*",
+		"*.fgd",
+		"*.psd"
+	]
+}
